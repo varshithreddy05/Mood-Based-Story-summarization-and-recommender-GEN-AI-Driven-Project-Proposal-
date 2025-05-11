@@ -66,6 +66,7 @@ This project introduces a generative AI-powered feature for Kuku FM that transfo
 - **Tech Feasibility:** Leverages 60% of existing Kuku FM infrastructure and cost-effective APIs
 
 👤 Submitted by: GANTA SAIVARSHITH REDDY  
+Project PDF: https://drive.google.com/file/d/1A6U7H-rWFed8PjPw7v8cZFa6yf6Yvg9A/view?usp=sharing
 CV: [Google Drive]  
 GitHub: https://github.com/varshithreddy05  
 LinkedIn: https://linkedin.com/in/saivarshith-reddy-g-1a6379270  
